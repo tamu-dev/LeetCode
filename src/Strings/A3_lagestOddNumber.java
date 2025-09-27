@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class A3_lagestOddNumber {
     public static String largestOddNumber(String num) {
-        StringBuilder ans = new StringBuilder();
 
         for(int i = num.length()-1;i>=0;i--){
             if((Character.getNumericValue(num.charAt(i)))%2 != 0){
