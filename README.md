@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/tamu-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
