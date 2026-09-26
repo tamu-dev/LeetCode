@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tamu-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tamu-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tamu-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tamu-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tamu-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tamu-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tamu-dev/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
