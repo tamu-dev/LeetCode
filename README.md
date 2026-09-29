@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
 ## Backtracking
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tamu-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
