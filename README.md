@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tamu-dev/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/tamu-dev/LeetCode/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -80,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tamu-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
