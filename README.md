@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tamu-dev/LeetCode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tamu-dev/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/tamu-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tamu-dev/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -50,17 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tamu-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamu-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamu-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
