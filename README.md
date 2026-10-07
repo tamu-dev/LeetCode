@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tamu-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tamu-dev/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tamu-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/tamu-dev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tamu-dev/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/tamu-dev/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tamu-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tamu-dev/LeetCode/tree/master/0057-insert-interval) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tamu-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
