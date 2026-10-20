@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/tamu-dev/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tamu-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tamu-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tamu-dev/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
