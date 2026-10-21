@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tamu-dev/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tamu-dev/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tamu-dev/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/tamu-dev/LeetCode/tree/master/0118-pascals-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tamu-dev/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
