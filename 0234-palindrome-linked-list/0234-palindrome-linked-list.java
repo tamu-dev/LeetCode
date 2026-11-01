@@ -40,7 +40,7 @@ class Solution {
             first = first.next;
             second = second.next;
         }
-        reverse(newHead);
+        reverse(head);
         return true;
     }
 }
