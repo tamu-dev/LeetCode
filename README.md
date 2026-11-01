@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/tamu-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tamu-dev/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tamu-dev/LeetCode/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamu-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tamu-dev/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tamu-dev/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
