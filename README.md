@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tamu-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/tamu-dev/LeetCode/tree/master/0069-sqrtx) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tamu-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tamu-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tamu-dev/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tamu-dev/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
