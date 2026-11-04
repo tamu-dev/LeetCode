@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tamu-dev/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tamu-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamu-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tamu-dev/LeetCode/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Newton's Method
 |  |
 | ------- |
