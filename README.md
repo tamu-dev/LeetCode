@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tamu-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tamu-dev/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamu-dev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/tamu-dev/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tamu-dev/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tamu-dev/LeetCode/tree/master/0069-sqrtx) |
 | [1922-count-good-numbers](https://github.com/tamu-dev/LeetCode/tree/master/1922-count-good-numbers) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/tamu-dev/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
